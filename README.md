@@ -1,7 +1,7 @@
-# To-do-List
+## To-do-List
 A simple web-based Todo list application built with HTML, CSS, and JavaScript.
 
-## Features
+# Features
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
 - Filter tasks by status (All, Active, Completed).
